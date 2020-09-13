@@ -38,7 +38,7 @@ var page=1;
 
    <table align="Center">
 	<tr >
-		<td rowspan="3" width="400px"><img align="center" height="300px" width="300px" src="postman.jpg"/></td>
+		<td rowspan="3" width="400px"><img align="center" height="300px" width="300px" src="postman.png"/></td>
 		<td><a href="" onclick="return validate('school',2)"><img height="180px" width="300px" src="school.jpg"/></a></td>
 		<td><img id="2" src="" disabled="true"></td>
 	</tr>
